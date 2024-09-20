@@ -4,19 +4,17 @@
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
-<h2>Participantes</h2>
+## Participantes
 Foi realizado por: <br>
 @Andrew-HiTe <br>
 @Wallyson123
 
 <br>
 
-<h2>Qual objetivo deste projeto?</h2>
-<p>Está sendo realizado para o aprendizado de <strong>desenvolvimento web </strong> com a utilização das linguagens:</p>
-<img  style="display: inline; margin: 0 5px src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/html5-512.png" alt="Imagem HTML" widht=50 weight=50>
-<p>HTML</p>
+## Qual objetivo deste projeto?
+Está sendo realizado para o aprendizado de **desenvolvimento web** com a utilização das linguagens:
 
-<br>
+![Img HTML](/html-5.png)
+![Img css](/css%20(3).png)
 
-<img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/html5-512.png" alt="Imagem CSS">
-<p>CSS</p>
+
