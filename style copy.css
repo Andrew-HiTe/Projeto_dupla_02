@@ -4,6 +4,7 @@
   box-sizing: border-box;
 }
 html {
+  height: 500vh;
   background-color: black;
   color: white;
 }
@@ -71,10 +72,6 @@ header ul li a {
   text-align: end;
   margin-right: 20px;
 }
-select{
-  cursor: pointer;
-}
-
 
 section {
   background-color: #474747;
@@ -229,58 +226,43 @@ h5 {
 }
 
 .saibamais {
-  margin: 2rem 10rem;
+  margin: 2rem 6rem;
   padding: -1rem;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: 3fr 1fr 2fr;
-  height: 200px;
   background-color: #4d6084;
-  border-radius: 100px;
+  border-radius: 69px;
 }
 .saibamais h4 {
   font-family: "Merriweather", serif;
-  font-size: 1.5rem;
+  font-size: 2.5rem;
   grid-column: 1/2;
   grid-row: 1/4;
-  padding: 0.5rem 2rem;
-  justify-self: center;
-  align-self: center
 }
 
-.saibamais p{
+.saibamais p {
   font-family: "Marcellus", serif;
   font-size: 1.5rem;
   grid-column: 2/3;
   grid-row: 1/2;
-  justify-content: center;
-  align-content: end ;
-  text-align: center;
-  width: auto;
+  padding;
 }
 .imagemseta {
   grid-column: 2/3;
   grid-row: 2/3;
-  justify-self: center;
 }
 .saibamais button {
   grid-column: 2/3;
   grid-row: 3/4;
-  height: 50%;
-  width: 70%;
-  justify-self: center;
-  background-color: rgb(206, 228, 173);
-  border-radius: 30px;
-}
-.saibamais button:hover{
-  color:white;
-  background-color: green;
 }
 .imagemhomem {
   grid-column: 3/4;
   grid-row: 1/4;
-  height: 200px;
+  height: auto%;
+  justify-self: end;
   align-self: center;
-  justify-self:end
-  
+}
+button:hover{
+  color:#4d6084
 }
