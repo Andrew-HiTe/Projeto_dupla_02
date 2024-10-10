@@ -284,3 +284,21 @@ h5 {
   justify-self:end
   
 }
+.fundofooter{
+  height: 10vh;
+  background-image: url(/IMG/fundofooter.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: brightness(50%);
+
+}
+.footergrid{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+.footerflex{
+  display: flex;
+  flex-wrap: wrap;  
+}
+
