@@ -1,7 +1,7 @@
 <h1 align="center"> Projeto_dupla_02 </h1>
 
 <p align="center">
-<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge"/>
 </p>
 
 ## Participantes
@@ -12,9 +12,19 @@ Foi realizado por: <br>
 <br>
 
 ## Qual objetivo deste projeto?
-Está sendo realizado para o aprendizado de **desenvolvimento web** com a utilização das linguagens:
+O projeto tem como principal objetivo de aprendizagem das linguagens HTML e CSS através da construção de uma página web, na qual os participantes devem realizar um site informativo sobre determinado tema paras duplas designado pelo docente. O nosso tema foi: Cobras
+
+<br><br>
+
+Linguagens utilizadas:
 
 ![Img HTML](/html-5.png)
 ![Img css](/css%20(3).png)
+
+
+
+
+
+
 
 
