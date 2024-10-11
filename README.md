@@ -6,17 +6,18 @@
 
 ## Participantes
 Foi realizado por: <br>
-@Andrew-HiTe <br>
-@Wallyson123
+index.html -@Andrew-HiTe <br>
+index2.html - @Wallyson123
 
 <br>
 
 ## Qual objetivo deste projeto?
-O projeto tem como principal objetivo de aprendizagem das linguagens HTML e CSS através da construção de uma página web, na qual os participantes devem realizar um site informativo sobre determinado tema paras duplas designado pelo docente. O nosso tema foi: Cobras
+O projeto tem como principal objetivo de aprendizagem das linguagens HTML e CSS através da construção de uma página web, na qual os participantes devem realizar um site informativo sobre determinado tema paras duplas designado pelo docente. 
+<br>O nosso tema foi: Cobras
 
-<br><br>
+<br>
 
-Linguagens utilizadas:
+## Linguagens utilizadas:
 
 ![Img HTML](/assets/html-5.png)
 ![Img css](/assets/css%20(3).png)
