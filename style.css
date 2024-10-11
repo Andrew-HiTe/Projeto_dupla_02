@@ -43,12 +43,12 @@ header ul li a {
   color: white;
   text-decoration: none;
 }
-header ul li a:hover{
+header ul li a:hover {
   color: #d3d0e6;
 }
 .banner {
   height: 60vh;
-  background-image: url(IMG/BannerPrincipal.png);
+  background-image: url(assets/IMG/BannerPrincipal.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -286,54 +286,48 @@ h5 {
   align-self: center;
   justify-self: end;
 }
-.fundofooter{
+.fundofooter {
   height: 11vh;
-  background-image: url(./IMG/FundoFooter.svg);
+  background-image: url(/assets/IMG/fundofooter.svg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
-.footergrid{
+.footergrid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   padding: 0.3rem;
-  
-  
 }
-.footerflex{
+.footerflex {
   display: flex;
-  flex-wrap: wrap;  
+  flex-wrap: wrap;
   place-content: space-around;
   font-family: "DM Sans", sans-serif;
   font-size: 1.5rem;
   text-decoration: underline;
   color: #70c6bf;
-
-  
 }
 
-.linkfooter{
+.linkfooter {
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
   font-family: "DM Sans", sans-serif;
   font-size: 1.2rem;
   align-content: space-around;
-  justify-content:space-around;
+  justify-content: space-around;
 }
 
-.linkfooter a{
-  color:rgb(114, 154, 238);
-  
+.linkfooter a {
+  color: rgb(114, 154, 238);
 }
-.linkfooter a:hover{
-  color:rgb(50, 108, 234);
-
+.linkfooter a:hover {
+  color: rgb(50, 108, 234);
 }
-footer div div div div img{
+footer div div div div img {
   width: 2rem;
   padding-right: 2px;
 }
-footer div div div div img:hover{
+footer div div div div img:hover {
   background-color: #3419ff;
 }
