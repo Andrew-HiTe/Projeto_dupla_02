@@ -71,10 +71,9 @@ header ul li a {
   text-align: end;
   margin-right: 20px;
 }
-select{
+select {
   cursor: pointer;
 }
-
 
 section {
   background-color: #474747;
@@ -245,16 +244,16 @@ h5 {
   grid-row: 1/4;
   padding: 0.5rem 2rem;
   justify-self: center;
-  align-self: center
+  align-self: center;
 }
 
-.saibamais p{
+.saibamais p {
   font-family: "Marcellus", serif;
   font-size: 1.5rem;
   grid-column: 2/3;
   grid-row: 1/2;
   justify-content: center;
-  align-content: end ;
+  align-content: end;
   text-align: center;
   width: auto;
 }
@@ -272,8 +271,8 @@ h5 {
   background-color: rgb(206, 228, 173);
   border-radius: 30px;
 }
-.saibamais button:hover{
-  color:white;
+.saibamais button:hover {
+  color: white;
   background-color: green;
 }
 .imagemhomem {
@@ -281,6 +280,5 @@ h5 {
   grid-row: 1/4;
   height: 200px;
   align-self: center;
-  justify-self:end
-  
+  justify-self: end;
 }
