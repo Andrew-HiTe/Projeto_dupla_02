@@ -38,9 +38,13 @@ header ul li {
   margin: 0 30px;
   font-size: 2rem;
 }
+
 header ul li a {
   color: white;
   text-decoration: none;
+}
+header ul li a:hover{
+  color: #d3d0e6;
 }
 .banner {
   height: 60vh;
@@ -281,4 +285,55 @@ h5 {
   height: 200px;
   align-self: center;
   justify-self: end;
+}
+.fundofooter{
+  height: 11vh;
+  background-image: url(./IMG/FundoFooter.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.footergrid{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  padding: 0.3rem;
+  
+  
+}
+.footerflex{
+  display: flex;
+  flex-wrap: wrap;  
+  place-content: space-around;
+  font-family: "DM Sans", sans-serif;
+  font-size: 1.5rem;
+  text-decoration: underline;
+  color: #70c6bf;
+
+  
+}
+
+.linkfooter{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  font-family: "DM Sans", sans-serif;
+  font-size: 1.2rem;
+  align-content: space-around;
+  justify-content:space-around;
+}
+
+.linkfooter a{
+  color:rgb(114, 154, 238);
+  
+}
+.linkfooter a:hover{
+  color:rgb(50, 108, 234);
+
+}
+footer div div div div img{
+  width: 2rem;
+  padding-right: 2px;
+}
+footer div div div div img:hover{
+  background-color: #3419ff;
 }
