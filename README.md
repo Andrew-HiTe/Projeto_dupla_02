@@ -18,8 +18,8 @@ O projeto tem como principal objetivo de aprendizagem das linguagens HTML e CSS 
 
 Linguagens utilizadas:
 
-![Img HTML](/html-5.png)
-![Img css](/css%20(3).png)
+![Img HTML](/assets/html-5.png)
+![Img css](/assets/css%20(3).png)
 
 
 
