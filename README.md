@@ -6,7 +6,7 @@
 
 ## Participantes
 Foi realizado por: <br>
-index.html -@Andrew-HiTe <br>
+index.html - @Andrew-HiTe <br>
 index2.html - @Wallyson123
 
 <br>
